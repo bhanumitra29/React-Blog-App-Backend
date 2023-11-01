@@ -28,7 +28,7 @@ const DynamicContent = () => {
 
   const fetchData = async () => {
     try {
-      const response = await fetch("http://localhost:2926/api/home");
+      const response = await fetch("https://nodeserver-api-hl14.onrender.com/api/home");
       if (!response.ok) {
         throw new Error('Network response was not ok');
       }
