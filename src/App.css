@@ -267,8 +267,8 @@
 }
 
 .sliderClass1{
-  height: 32em;
-  width: 48em;
+  height: 38em;
+  width: 50em;
 }
 .mainHomeClass{
   width: 94%;
@@ -281,7 +281,7 @@
 
 .mainSliderParent1{
   width: 48em;
-  height: 20em;
+  /* height: 20em; */
 }
 
 
